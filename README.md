@@ -9,7 +9,7 @@
 - 🔥Student of Sber School 21
 
 - ✍🏻Currently learning ML and improving my skills in Python and NLP
-- 👦🏻👧🏻 Former private tutor for children and teens
+- 👦🏻👧🏻 Former private tutor for children and teens in Python and English
 
 👀Interesting fact: I got some skills in C++ and DevOps while studing in School 21
 
