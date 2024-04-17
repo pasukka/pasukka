@@ -14,5 +14,3 @@
 👀Interesting fact: I got some skills in C++ and DevOps while studing in School 21
 
 Reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ovchkris)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasukka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
