@@ -7,10 +7,6 @@
 
 - 👩🏻‍💻Master’s student in Computational Linguistics of NSU
 - 🔥Student of Sber School 21
-
-- ✍🏻Currently learning ML and improving my skills in Python and NLP
-- 👦🏻👧🏻 Former private tutor for children and teens in Python and English
-
-👀Interesting fact: I got some skills in C++ and DevOps while studing in School 21
+- ✍🏻In my free time, I study articles and take part in thematic festivals dedicated to _NLP_ and _Data Science_.
 
 Reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ovchkris)
